@@ -133,6 +133,27 @@ C-TDED/
 - CUDA >= 11.0 (for GPU support | GPU支持)
 - See `requirements.txt` for complete list | 完整列表见 `requirements.txt`
 
+##其他算法详情
+HED - Holistically-nested Edge Detection
+Full name: Holistically-nested Edge Detection (HED)
+GitHub: https://github.com/s9xie/hed
+Paper: ICCV 2015
+
+BDCN - Bi-Directional Cascade Network
+Full name: Bi-Directional Cascade Network for Perceptual Edge Detection (BDCN)
+GitHub: https://github.com/pkuCactus/BDCN
+Paper: CVPR 2019
+
+EDTER - Edge Detection with TRansformer
+Full name: Edge Detection with Transformer (EDTER)
+GitHub: https://github.com/MengyangPu/EDTER
+Paper: CVPR 2022
+
+DiffusionEdge - Diffusion Probabilistic Model for Crisp Edge Detection
+Full name: DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection
+GitHub: https://github.com/GuHuangAI/DiffusionEdge
+Paper: AAAI 2024
+
 
 ## License | 许可证
 
