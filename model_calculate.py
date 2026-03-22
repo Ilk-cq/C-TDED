@@ -1,4 +1,3 @@
-# model.py - 修复版本，解决通道不匹配问题
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
