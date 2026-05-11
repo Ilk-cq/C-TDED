@@ -120,7 +120,6 @@ C-TDED/
 ├── model.py              # Model architecture | 模型架构
 ├── dataset.py            # Dataset loaders | 数据集加载器
 ├── edge_losses.py        # Loss functions | 损失函数
-├── training.py           # Training script | 训练脚本
 ├── model_calculate.py    #Calculating model parameters and others
 ├── requirements.txt      # Dependencies | 依赖项
 └── README.md            # This file | 本文件
